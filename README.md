@@ -1,2 +1,2 @@
-# CursoPython_LaunchX
-Curso Introductorio de Python
+# Curso Introductorio de Python
+Ejercicios realizados durante el curso Introductorio de Python de LaunchX
